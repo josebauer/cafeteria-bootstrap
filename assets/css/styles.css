@@ -7,6 +7,10 @@
   --bs-btn-active-border-color: #0c5734;
 }
 
+main {
+  margin-top: 4.8rem;
+}
+
 .navbar-brand img {
   width: 50px;
 }
@@ -30,3 +34,4 @@
   background: linear-gradient(transparent, rgb(31, 31, 31));
   position: absolute;
 }
+
